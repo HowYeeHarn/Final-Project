@@ -1,0 +1,73 @@
+#wrapper{width:100%;
+margin:auto;
+height:100%;}
+body{background-image: url(image/wooddarkbrown.jpg);}
+header{width:90%;
+height:30%;
+margin-top:0;
+padding-bottom: 30px;
+background-image:url(image/headerbookshelf.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-left:5%;
+margin-right:5%;}
+#headerbox{background-color: #20353d;
+opacity:80%;
+width:90%;
+height:25%;
+margin-left:5%;
+margin-right:5%;
+color:#EFE203;
+font-family: Papyrus, fantasy;
+font-size:4em;
+font-weight:bold;
+text-align: center;}
+nav a{text-decoration: none;
+font-family: "Andale Mono", monospace;
+font-size:0.5em;
+color:#F7F6F5;
+display:inline-flex;}
+nav{margin-bottom:auto;
+background-size:contain;}
+nav a:link {color:#F7F6F5;}
+nav a:visited {color:#F7F6F5;}
+nav a:hover{color:#12FFA8;}
+#image{margin-left:10%;
+margin-right: -2%;
+margin-bottom: 5%;
+margin-top: 3%;
+display:flex;
+float: left;}
+#box{background-color:#FFFFFF;
+text-align:justify;
+padding-left:20px;
+padding-right: 40px;
+width:60%;
+height:20%;
+opacity:80%; 
+margin-left:-1%;
+margin-right:12%;
+margin-bottom: 5%;
+margin-top: 3%;
+float: right;}
+h1{font-size:2em;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+color:#FFFFFF;
+background-color:#FFFFFF;
+text-shadow:2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, -2px -2px 0 #000000, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000;
+text-align:center;
+border: 5px dashed #D58F23;
+border-radius: 0px 40px 40px 0px;
+padding-left: 10px;
+padding-right:10px;
+padding-top:10px;
+padding-bottom:10px;
+margin-left:auto;
+margin-right:auto;}
+p{font-size:20px;
+font-family:"Trebuchet MS", Helvetica, sans-serif;}
+footer{font-size: 1.5em;
+color:#FFFFFF;
+text-align: center;
+margin-left:20%;
+margin-right:20%;}
