@@ -32,11 +32,11 @@ background-size:contain;}
 nav a:link {color:#F7F6F5;}
 nav a:visited {color:#F7F6F5;}
 nav a:hover{color:#12FFA8;}
-#image{margin-left:10%;
+#image{display:flex;
+margin-left:10%;
 margin-right: -2%;
 margin-bottom: 5%;
 margin-top: 3%;
-display:flex;
 float: left;}
 #box{background-color:#FFFFFF;
 text-align:justify;
@@ -45,11 +45,11 @@ padding-right: 40px;
 width:60%;
 height:20%;
 opacity:80%; 
+float:right;
 margin-left:-1%;
 margin-right:10%;
 margin-bottom: 5%;
-margin-top: 3%;
-float: right;}
+margin-top: 3%;}
 h1{font-size:2em;
 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 color:#FFFFFF;
