@@ -34,7 +34,7 @@ nav a:visited {color:#F7F6F5;}
 nav a:hover{color:#12FFA8;}
 #image{display:flex;
 margin-left:10%;
-margin-right: 0%;
+margin-right: -2%;
 margin-bottom: 5%;
 margin-top: 3%;
 float: left;}
