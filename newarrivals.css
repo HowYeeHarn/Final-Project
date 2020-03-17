@@ -1,0 +1,68 @@
+#wrapper{width:100%;
+margin:auto;
+height:100%;}
+body{background-image: url(image/wooddarkbrown.jpg);}
+header{width:90%;
+height:30%;
+margin-top:0;
+padding-bottom: 30px;
+background-image:url(image/headerbookshelf.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-left:5%;
+margin-right:5%;}
+#headerbox{background-color: #20353d;
+opacity:80%;
+width:90%;
+height:25%;
+margin-left:5%;
+margin-right:5%;
+color:#EFE203;
+font-family: Papyrus, fantasy;
+font-size:4em;
+font-weight:bold;
+text-align: center;}
+nav a{text-decoration: none;
+font-family: "Andale Mono", monospace;
+font-size:0.5em;
+color:#F7F6F5;
+display:inline-flex;}
+nav{margin-bottom:auto;
+background-size:contain;}
+nav a:link {color:#F7F6F5;}
+nav a:visited {color:#F7F6F5;}
+nav a:hover{color:#12FFA8;}
+.search-container{margin-left: 40%;
+margin-right:0;}
+input[type=text] {
+  padding: 6px;
+  margin-top: 3%;
+  font-size: 17px;
+  border: none;}
+.search-container button {padding: 6px 10px;
+  margin-top: 3%;
+  margin-left:0;
+  margin-right:40%;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+display:inline-flex;}
+  .column {float: left;
+  width: 22.5%;
+  padding: 5px;
+  margin-left:5%;
+  margin-right:5%;}
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+figcaption{font-size:20px;
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+color:#FFFFFF;}
+footer{font-size: 1.5em;
+margin:auto;
+color:#FFFFFF;
+text-align:center;}
