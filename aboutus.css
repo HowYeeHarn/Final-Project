@@ -32,23 +32,24 @@ background-size:contain;}
 nav a:link {color:#F7F6F5;}
 nav a:visited {color:#F7F6F5;}
 nav a:hover{color:#12FFA8;}
+#box{background-color:#FFFFFF;
+text-align:justify;
+padding-left:20px;
+padding-right: 40px;
+padding-top:10px;
+width:60%;
+height:20%;
+opacity:80%; 
+margin-left:26%;
+margin-right:10%;
+margin-bottom: 5%;
+margin-top: 3%;}
 #image{display:flex;
 margin-left:10%;
 margin-right:0%;
 margin-bottom: 5%;
 margin-top: 3%;
 float:left;}
-#box{background-color:#FFFFFF;
-text-align:justify;
-padding-left:20px;
-padding-right: 40px;
-width:60%;
-height:20%;
-opacity:80%; 
-margin-left:30%;
-margin-right:10%;
-margin-bottom: 5%;
-margin-top: 3%;}
 h1{font-size:2em;
 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 color:#FFFFFF;
